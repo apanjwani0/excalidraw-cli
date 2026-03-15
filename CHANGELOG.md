@@ -4,8 +4,7 @@
 
 ### Breaking Changes
 
-- Raise the minimum supported Node.js version from Node 18 to `>=20.19.0`.
-- Ship the image exporter Node support change as the next major release.
+- Drop Node 18 support and raise the minimum supported Node.js version to `>=20.19.0`.
 
 ### Changed
 

@@ -26,9 +26,7 @@
 
 ## Installation
 
-Requires `Node >=20.19.0`.
-
-This exporter change drops Node 18 support and should be released as the next major version.
+Requires `Node >=20.19.0`. Node 18 is no longer supported.
 
 ### Using npm
 
